@@ -1,1 +1,1 @@
-print("Hello Would")
+print(1+1)
